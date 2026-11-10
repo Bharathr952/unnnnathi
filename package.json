@@ -1,0 +1,10 @@
+{
+  "name": "unnathi-guidance-cell",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Student application and record management portal for Unnathi Guidance Cell",
+  "scripts": {
+    "start": "python -m http.server 3000",
+    "serve": "python -m http.server 3000"
+  }
+}
